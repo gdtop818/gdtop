@@ -1,0 +1,15 @@
+* { margin: 0px; padding: 0px; }
+html { font-size: 12px; color: rgb(0, 0, 0); font-family: "微软雅黑"; }
+body { font-size: 12px; color: rgb(0, 0, 0); font-family: "微软雅黑"; width: 980px; margin: 0px auto; }
+.t1 { font-size: 12px; color: rgb(178, 4, 3); padding-left: 30px; }
+.t3 { font-size: 12px; color: rgb(178, 4, 3); }
+.t3 a { font-size: 12px; color: rgb(178, 4, 3); text-decoration: none; }
+.bc12, .bc12 a { font-size: 12px; line-height: 20px; color: rgb(0, 0, 0); text-decoration: none; }
+.t2 { width: 980px; }
+.menu { font-size: 14px; font-weight: bold; color: rgb(255, 255, 255); }
+.menu a { color: rgb(255, 255, 255); text-decoration: none; }
+.menu p { width: 70px; float: left; }
+.button1 { width: 61px; height: 20px; line-height: 18px; color: rgb(255, 255, 255); border: medium none; font-size: 12px; background: transparent url('../images/pk_04.gif') no-repeat scroll 0% 0%; }
+.be12, .be12 a { font-size: 12px; line-height: 28px; width:30px; margin-left:20px; color: rgb(0, 0, 0); text-decoration: none; }
+.bgg { background-image: url('../images/pn_27.jpg'); background-repeat: no-repeat; background-position: left bottom; }
+.bk12 { border: 1px solid rgb(204, 204, 204); padding: 3px; font-size: 14px; color: rgb(0, 0, 0); font-weight: bold; }
